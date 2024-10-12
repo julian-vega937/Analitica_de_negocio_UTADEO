@@ -7,4 +7,4 @@ Herramienta de analitica de negocios
 #### Mi nombre es julian Vega y soy estudiante de la universidad Jorge Tadeo Lozano
 
 
-Este es el link de mi universidad [Universidad Jorge Tadeo Lozano](https://www.utadeo.edu.co/es))
+Este es el link de mi universidad [Universidad Jorge Tadeo Lozano](https://www.utadeo.edu.co/es)
