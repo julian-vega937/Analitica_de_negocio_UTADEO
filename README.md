@@ -8,3 +8,5 @@ Herramienta de analitica de negocios
 
 
 Este es el link de mi universidad [Universidad Jorge Tadeo Lozano](https://www.utadeo.edu.co/es)
+
+![Colombia](https://www.portafolio.co/files/article_new_multimedia/uploads/2024/01/24/65b179df13c00.jpeg))
